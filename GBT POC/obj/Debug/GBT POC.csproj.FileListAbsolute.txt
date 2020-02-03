@@ -1,0 +1,14 @@
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe.config
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.pdb
+C:\Box\Repos\GBT POC\obj\Debug\MainWindow.g.cs
+C:\Box\Repos\GBT POC\obj\Debug\App.g.cs
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC_MarkupCompile.cache
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC_MarkupCompile.lref
+C:\Box\Repos\GBT POC\obj\Debug\MainWindow.baml
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC.g.resources
+C:\Box\Repos\GBT POC\obj\Debug\GBT_POC.Properties.Resources.resources
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC.csproj.GenerateResource.cache
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC.csproj.CoreCompileInputs.cache
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC.exe
+C:\Box\Repos\GBT POC\obj\Debug\GBT POC.pdb

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TJXEL24752</Machine>
+    <WindowsUser>son00134</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5d056c6e-43f4-44cb-a1da-23544284b815</PackageIdentityName>
+    <PackageIdentityPublisher>CN=son00134</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Box\Repos\GBT POC Pkg\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>947EC6B170C217A537EA182F6BCE38C67A01B538C6BB4DA4A0BF5130794992CB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5d056c6e-43f4-44cb-a1da-23544284b815_1.0.0.0_neutral__mn7m64sz1b7aa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5d056c6e-43f4-44cb-a1da-23544284b815_mn7m64sz1b7aa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5d056c6e-43f4-44cb-a1da-23544284b815</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=son00134</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-02-03T15:50:56.913</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:19:55.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-02-03T15:12:46.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe">
+      <PackagePath>GBT POC\GBT POC.exe</PackagePath>
+      <Modified>2020-02-03T15:50:55.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe.config">
+      <PackagePath>GBT POC\GBT POC.exe.config</PackagePath>
+      <Modified>2020-01-30T15:24:47.033</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

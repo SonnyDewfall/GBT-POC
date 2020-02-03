@@ -1,0 +1,25 @@
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\GBT POC Unit Test.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\GBT POC Unit Test.pdb
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Appium.Net.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Castle.Core.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Newtonsoft.Json.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\WebDriver.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\WebDriver.Support.dll
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Castle.Core.xml
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\Newtonsoft.Json.xml
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\WebDriver.xml
+C:\Box\Repos\GBT POC Unit Test\bin\Debug\WebDriver.Support.xml
+C:\Box\Repos\GBT POC Unit Test\obj\Debug\GBT POC Unit Test.csprojAssemblyReference.cache
+C:\Box\Repos\GBT POC Unit Test\obj\Debug\GBT POC Unit Test.csproj.CoreCompileInputs.cache
+C:\Box\Repos\GBT POC Unit Test\obj\Debug\GBT POC Unit Test.csproj.CopyComplete
+C:\Box\Repos\GBT POC Unit Test\obj\Debug\GBT POC Unit Test.dll
+C:\Box\Repos\GBT POC Unit Test\obj\Debug\GBT POC Unit Test.pdb

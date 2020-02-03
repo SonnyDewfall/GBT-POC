@@ -1,0 +1,11 @@
+C:\Box\Repos\GBT POC Pkg\Images\SplashScreen.scale-200.png
+C:\Box\Repos\GBT POC Pkg\Images\LockScreenLogo.scale-200.png
+C:\Box\Repos\GBT POC Pkg\Images\Square150x150Logo.scale-200.png
+C:\Box\Repos\GBT POC Pkg\Images\Square44x44Logo.scale-200.png
+C:\Box\Repos\GBT POC Pkg\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Box\Repos\GBT POC Pkg\Images\StoreLogo.png
+C:\Box\Repos\GBT POC Pkg\Images\Wide310x150Logo.scale-200.png
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\resources.pri
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.exe.config
+C:\Box\Repos\GBT POC\bin\Debug\GBT POC.pdb

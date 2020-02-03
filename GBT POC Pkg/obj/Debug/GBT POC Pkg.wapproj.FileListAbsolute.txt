@@ -1,0 +1,25 @@
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\resources.pri
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\GBT POC\GBT POC.exe
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\GBT POC\GBT POC.exe.config
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\GBT POC\GBT POC.pdb
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\AppxManifest.xml
+C:\Box\Repos\GBT POC Pkg\bin\AnyCPU\Debug\GBT POC Pkg.build.appxrecipe
+C:\Box\Repos\GBT POC Pkg\obj\Debug\GBT POC Pkg.wapprojAssemblyReference.cache
+C:\Box\Repos\GBT POC Pkg\obj\Debug\GBT POC Pkg.wapproj.CoreCompileInputs.cache
+C:\Box\Repos\GBT POC Pkg\obj\Debug\priconfig.xml
+C:\Box\Repos\GBT POC Pkg\obj\Debug\priconfig.xml.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\unfiltered.layout.resfiles
+C:\Box\Repos\GBT POC Pkg\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\filtered.layout.resfiles
+C:\Box\Repos\GBT POC Pkg\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\excluded.layout.resfiles
+C:\Box\Repos\GBT POC Pkg\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\resources.resfiles
+C:\Box\Repos\GBT POC Pkg\obj\Debug\resources.resfiles.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\pri.resfiles
+C:\Box\Repos\GBT POC Pkg\obj\Debug\pri.resfiles.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\qualifiers.txt
+C:\Box\Repos\GBT POC Pkg\obj\Debug\qualifiers.txt.intermediate
+C:\Box\Repos\GBT POC Pkg\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Box\Repos\GBT POC Pkg\obj\Debug\ProjectArchitectures.txt
+C:\Box\Repos\GBT POC Pkg\obj\Debug\GBT POC Pkg.wapproj.LastBuild.txt
