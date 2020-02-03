@@ -42,7 +42,7 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish artifact: tests'
   inputs:
-    PathtoPublish: 'WpfUiTesting.Tests\bin\Release\'
+    PathtoPublish: 'GBT POC Unit Test\bin\Release\'
     ArtifactName: 'tests'
   condition: succeededOrFailed()
 
