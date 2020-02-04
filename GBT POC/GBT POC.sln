@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBT POC", "GBT POC.csproj", "{5858BAB8-14B7-4391-B276-D254B121AD43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBT-POC", "GBT-POC.csproj", "{5858BAB8-14B7-4391-B276-D254B121AD43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBT POC Unit Test", "..\GBT POC Unit Test\GBT POC Unit Test.csproj", "{86D9A42E-C9CE-468E-ADC9-1E7A755A7EFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBT-POC-Unit-Test", "..\GBT POC Unit Test\GBT-POC-Unit-Test.csproj", "{86D9A42E-C9CE-468E-ADC9-1E7A755A7EFE}"
 EndProject
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "GBT POC Pkg", "..\GBT POC Pkg\GBT POC Pkg.wapproj", "{80841B94-5948-4231-B482-080B9F1EE60A}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "GBT-POC-Pkg", "..\GBT POC Pkg\GBT-POC-Pkg.wapproj", "{80841B94-5948-4231-B482-080B9F1EE60A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
