@@ -74,6 +74,8 @@ namespace GBT_POC_Unit_Test
         }
 
         [ClassCleanup]
+
+        //Closes down any active session
         public static void Cleanup()
         {
             if (session != null)
